@@ -1,4 +1,4 @@
 # Counter-App-Passenger
 Projet Scrimba
 
-Link : https://sensational-chimera-100bfb.netlify.app/
+Link : https://simple-counter-app-gino-scrimba.netlify.app/
